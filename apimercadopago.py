@@ -9,7 +9,7 @@ def gerar_link_pagamento():
         "id":"1",
         "quantity":1,
         "currency_id": "BRL",
-        "unit_price": 259.90
+        "unit_price": 159.90
       }
     ],
       "back_urls":{
